@@ -40,6 +40,7 @@ class RallyActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             RallyApp()
+            //yer
         }
     }
 }
